@@ -831,3 +831,1066 @@ Script call stack:
 [2019.05.08-05.36.58:262][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.05.08-05.37.11:390][746]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/TopDownBP/Texture/Machines/Machines_Sprite.Machines_Sprite
 [2019.05.08-05.37.23:406][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-05.43.50:447][174]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.049
+[2019.05.08-05.43.50:448][174]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines/Dream_Ingredients] ([1] browsable assets)...
+[2019.05.08-05.43.50:450][174]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TopDownBP/Texture/Machines/Dream_Ingredients.Dream_Ingredients]
+[2019.05.08-05.43.50:450][174]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines/Dream_Ingredients]
+[2019.05.08-05.43.50:469][174]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Ingredients_Auto34BC1F50C4A24520656B495A41B137D69.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines/Dream_Ingredients_Auto3.uasset'
+[2019.05.08-05.43.50:481][174]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines/Machines_Sprite] ([1] browsable assets)...
+[2019.05.08-05.43.50:488][174]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/TopDownBP/Texture/Machines/Machines_Sprite.Machines_Sprite]
+[2019.05.08-05.43.50:488][174]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines/Machines_Sprite]
+[2019.05.08-05.43.50:512][174]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_Auto389C3882442DDBCB1B824308B97A32FA5.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines/Machines_Sprite_Auto3.uasset'
+[2019.05.08-05.43.50:525][174]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines/Machines] ([1] browsable assets)...
+[2019.05.08-05.43.50:532][174]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TopDownBP/Texture/Machines/Machines.Machines]
+[2019.05.08-05.43.50:532][174]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines/Machines]
+[2019.05.08-05.43.50:560][174]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Auto3F1765B89430564B2E0350997AA34923C.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines/Machines_Auto3.uasset'
+[2019.05.08-05.43.50:584][174]LogFileHelpers: Auto-saving content packages took 0.136
+[2019.05.08-05.44.04:055][697]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.08-05.44.10:029][868]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 //gteng.homes.deakin.edu.au/my-home/UserData/Desktop/254/SweetDreamOvertime/Dream_Ingredients.png)
+[2019.05.08-05.44.10:037][868]LogTexture: Display: Building textures: Dream_Ingredients (AutoDXT, 52X52)
+[2019.05.08-05.44.22:542][983]LogSlate: Window 'Extract sprites' being destroyed
+[2019.05.08-05.44.32:124][701]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.08-05.44.37:335][ 71]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.08-05.44.40:823][154]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 //gteng.homes.deakin.edu.au/my-home/UserData/Desktop/254/SweetDreamOvertime/Machines.png)
+[2019.05.08-05.44.40:839][154]LogTexture: Display: Building textures: Machines (AutoDXT, 800X600)
+[2019.05.08-05.44.48:930][788]LogSlate: Window 'Extract sprites' being destroyed
+[2019.05.08-05.44.54:089][ 25]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.08-05.44.57:084][153]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.08-05.45.00:944][353]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.08-05.45.06:360][632]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.08-05.45.19:321][554]Cmd: EDIT CUT
+[2019.05.08-05.45.19:332][554]LogEditorActor: Deleted Actor: Items_C
+[2019.05.08-05.45.19:385][554]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2019.05.08-05.45.36:781][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines.uasset" SILENT=true
+[2019.05.08-05.45.36:827][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines84ECA5A94FDA4B506CB7C7AB6CC2E640.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines.uasset'
+[2019.05.08-05.45.36:920][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_0AEB45808493A452E5018C7AE19B8B480.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_0.uasset'
+[2019.05.08-05.45.36:999][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_1DEABEEBC426C97D96CF2CFB96D218995.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_1.uasset'
+[2019.05.08-05.45.37:106][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_28090D9AF46E711312B2B47A87C060DE5.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_2.uasset'
+[2019.05.08-05.45.37:205][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_3F333CE6D4FE5D81F86A0D49C534BB3A4.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_3.uasset'
+[2019.05.08-05.45.37:265][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_4D2ED2C6F4ADEC1281B22D79470943E00.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_4.uasset'
+[2019.05.08-05.45.37:358][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_5BD56C6704A1DC1D53315568EB5C4863F.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_5.uasset'
+[2019.05.08-05.45.37:461][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_6DAC436E343B695EF4F43559D73E4062D.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_6.uasset'
+[2019.05.08-05.45.37:546][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_796799A4E46648FBDE633D39805A8D4E5.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_7.uasset'
+[2019.05.08-05.45.37:609][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_89E5ACB8F454143CF99E83EBCB90F3370.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_8.uasset'
+[2019.05.08-05.45.37:710][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_9F358ABAB48EBB9019B8BD5BF11D9AD06.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_9.uasset'
+[2019.05.08-05.45.37:804][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_1053AFD43F494D874997EF21B4C2B48EF6.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_10.uasset'
+[2019.05.08-05.45.37:884][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_11BD0A60324FA0050FCF1C6E813F4963E5.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_11.uasset'
+[2019.05.08-05.45.37:955][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_12D65DAF7740CE0D72A523DBADD0F05F28.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_12.uasset'
+[2019.05.08-05.45.38:015][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_139FD1A9094342E117A6AAD186C26D030A.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_13.uasset'
+[2019.05.08-05.45.38:078][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_14EBA0DB30437365B8CCB2E2AD0433AD01.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_14.uasset'
+[2019.05.08-05.45.38:127][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_156AD824ED4F64F3BAE76B61A679E59442.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_15.uasset'
+[2019.05.08-05.45.38:213][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_168BA1201C4684DBAA6F9506A17351A6C4.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_16.uasset'
+[2019.05.08-05.45.38:292][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_173DFAA6BB4AAE290B4A46BC90068B8CC6.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_17.uasset'
+[2019.05.08-05.45.38:377][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_184EDABFD1486F4F2B614206BD23275051.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_18.uasset'
+[2019.05.08-05.45.38:461][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_1939D39B264516FBCF9A001A9B5A1F80CD.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_19.uasset'
+[2019.05.08-05.45.38:547][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_20043093AE454AEEAF7C4106AC8A13DC55.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_20.uasset'
+[2019.05.08-05.45.38:621][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_212915871048E9A244C5DFEEB2D61F95B3.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_21.uasset'
+[2019.05.08-05.45.38:721][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_2229D10DB74C3EC63D4BCB60B251460EE7.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_22.uasset'
+[2019.05.08-05.45.38:803][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_23974425A1465EC36BB03980B142142191.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_23.uasset'
+[2019.05.08-05.45.38:882][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_2478A191D74DA34AB1DCB33888C120C974.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_24.uasset'
+[2019.05.08-05.45.38:982][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_253986630A40DF41AB953DC6B04B3B7B00.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_25.uasset'
+[2019.05.08-05.45.39:056][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_261B0D1DE1483D8BA608D25EA6D28A96AE.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_26.uasset'
+[2019.05.08-05.45.39:106][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_274EB7CA924F6719C5862F85AA5F27B9CD.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_27.uasset'
+[2019.05.08-05.45.39:147][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_2844BF02104F489FAD44B7E7AF437C5D00.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_28.uasset'
+[2019.05.08-05.45.39:192][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_2956F383834630B9CCEC45539C660070B0.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_29.uasset'
+[2019.05.08-05.45.39:246][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_304C050F434EF803A74BA81E92002DC9F6.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_30.uasset'
+[2019.05.08-05.45.39:312][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_313CF0C8484DFD5568CBFB9D83549A2732.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_31.uasset'
+[2019.05.08-05.45.39:385][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_325312754A4EDBA3E6E175F09DD02EF3F3.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_32.uasset'
+[2019.05.08-05.45.39:454][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_33A08D969B4DE2FE837CC9C798BAD6C8FA.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_33.uasset'
+[2019.05.08-05.45.39:556][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_34A543F2C84733F328DA1C29A1E14FC98B.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_34.uasset'
+[2019.05.08-05.45.39:648][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_3536195D0F4DA36E69762FADB013231281.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_35.uasset'
+[2019.05.08-05.45.39:752][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_36E98432A74F2C098184D1A0B8ECBAA130.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_36.uasset'
+[2019.05.08-05.45.39:814][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_370A74549B436941B3A4F3B89CA5CB1A4B.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_37.uasset'
+[2019.05.08-05.45.39:857][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_3834B62F3F486562E64E2F40A433C35B4E.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_38.uasset'
+[2019.05.08-05.45.39:902][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_398F07EC114D8897783F4471ADD4B5F3A1.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_39.uasset'
+[2019.05.08-05.45.39:965][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_40184480604A2EC0B9027D55853CDC9BF0.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_40.uasset'
+[2019.05.08-05.45.40:033][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_415052B03D41F78CBD338F2EB7D1E08DB6.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_41.uasset'
+[2019.05.08-05.45.40:088][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines_Sprite_42E39C071847724BC66132B9A0E813496E.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines_Sprite_42.uasset'
+[2019.05.08-05.45.40:120][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Table" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Table.uasset" SILENT=true
+[2019.05.08-05.45.40:151][313]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Table115650B04E506AD62A8726A79117BD29.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Table.uasset'
+[2019.05.08-05.46.07:865][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Dream_Clouds1" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds1.uasset" SILENT=true
+[2019.05.08-05.46.07:909][420]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds1323D8AA84AD3A67F368D69AC34C91921.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds1.uasset'
+[2019.05.08-05.46.07:957][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Dream_Clouds2" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds2.uasset" SILENT=true
+[2019.05.08-05.46.07:980][420]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds2388409554634BBB3814CDD859EEF5584.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds2.uasset'
+[2019.05.08-05.46.08:018][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Dream_Clouds3" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds3.uasset" SILENT=true
+[2019.05.08-05.46.08:057][420]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds30F03A25941141B4C18B255918BDF572B.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds3.uasset'
+[2019.05.08-05.46.08:104][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Dream_Clouds4" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds4.uasset" SILENT=true
+[2019.05.08-05.46.08:146][420]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds4AB924BA74A89887160AA9CAA1BA09E87.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds4.uasset'
+[2019.05.08-05.46.08:187][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Dream_Clouds5" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds5.uasset" SILENT=true
+[2019.05.08-05.46.08:227][420]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds544AA6BC441338A061F0929A426626CE0.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds5.uasset'
+[2019.05.08-05.46.08:268][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Dream_Clouds6" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds6.uasset" SILENT=true
+[2019.05.08-05.46.08:309][420]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds6F55A45D04AA565240F571C96FFAD4C3A.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds6.uasset'
+[2019.05.08-05.46.08:342][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Dream_Clouds7" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds7.uasset" SILENT=true
+[2019.05.08-05.46.08:371][420]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds7B098652D4A2717F9BB1203932669F4B6.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds7.uasset'
+[2019.05.08-05.46.08:422][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Dream_Clouds8" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds8.uasset" SILENT=true
+[2019.05.08-05.46.08:469][420]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds867C493424B92B6538FBCC3A1F2537AD4.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds8.uasset'
+[2019.05.08-05.46.08:567][420]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds_Sprite_035EFF3104DF3F69794FCD8BFBC1F1122.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds_Sprite_0.uasset'
+[2019.05.08-05.46.08:656][420]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds_Sprite_182D2CDE64B292A54D90E5F94BFE32665.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds_Sprite_1.uasset'
+[2019.05.08-05.46.08:725][420]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds_Sprite_2E07F8A11454DCE0BA3292283BFEB66BF.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds_Sprite_2.uasset'
+[2019.05.08-05.46.08:807][420]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds_Sprite_34ADC6B864C42C85A0E5D378BDA800CDF.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds_Sprite_3.uasset'
+[2019.05.08-05.46.08:903][420]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds_Sprite_420616F9149FF623471C0A4BBFB8515A4.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds_Sprite_4.uasset'
+[2019.05.08-05.46.09:010][420]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds_Sprite_59A20BA864C6340498063E0B3147B26ED.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds_Sprite_5.uasset'
+[2019.05.08-05.46.09:114][420]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds_Sprite_63BCF35D5456B7767C0F5798B84BB872F.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds_Sprite_6.uasset'
+[2019.05.08-05.46.09:194][420]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds_Sprite_752AA4DF24F4A85334C20DE855601F963.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds_Sprite_7.uasset'
+[2019.05.08-05.46.11:800][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Items" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Blueprints/Items.uasset" SILENT=true
+[2019.05.08-05.46.11:855][420]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/ItemsEE9929C846C2BFCA86BCAEAA8B3BE147.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Blueprints/Items.uasset'
+[2019.05.08-05.46.16:971][673]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.08-05.46.19:792][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Dream_Clouds" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds.uasset" SILENT=true
+[2019.05.08-05.46.19:809][992]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_CloudsEB7D3AA24E17EEE937FF3FAF2ED19BF4.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds.uasset'
+[2019.05.08-05.46.20:142][992]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds_Sprite_00762E75D41FBE817731E78B3AF5C7B68.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds_Sprite_0.uasset'
+[2019.05.08-05.46.20:209][992]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds_Sprite_191E10313402DE9678D303CA90F5F12D8.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds_Sprite_1.uasset'
+[2019.05.08-05.46.20:332][992]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds_Sprite_27EAABFF64F19F66F36A7BD8D69E82996.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds_Sprite_2.uasset'
+[2019.05.08-05.46.20:440][992]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds_Sprite_3A6EDD77044D35357B36BFDA82D0324E5.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds_Sprite_3.uasset'
+[2019.05.08-05.46.20:538][992]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds_Sprite_4032F28FC401BBD6EE46A2888C481A7C8.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds_Sprite_4.uasset'
+[2019.05.08-05.46.20:600][992]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds_Sprite_5EB7FEF994139DB41C2326DBE04E15E14.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds_Sprite_5.uasset'
+[2019.05.08-05.46.20:666][992]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds_Sprite_6FE4B3D024DB3291B996AFF94583A5833.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds_Sprite_6.uasset'
+[2019.05.08-05.46.20:721][992]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Dream_Clouds_Sprite_7E5B234AB492E535103DCD498FC385882.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Dream_Clouds_Sprite_7.uasset'
+[2019.05.08-05.46.30:502][842]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.08-05.46.32:462][918]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.08-05.46.37:905][251]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.08-05.46.41:482][487]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.08-05.46.43:419][577]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.08-05.49.07:730][285]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.08-05.49.19:903][584]BlueprintLog: New page: Compile Items
+[2019.05.08-05.49.20:495][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Items" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Blueprints/Items.uasset" SILENT=true
+[2019.05.08-05.49.20:531][616]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/ItemsD99F4EBB4B8FB04AC272AC9CF7083840.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Blueprints/Items.uasset'
+[2019.05.08-05.49.59:015][171]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/TopDownExampleMap7A1AB830442E5F507B225BA45006E8C1.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.05.08-05.49.59:274][171]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/TopDownExampleMap_BuiltDataE52EBDCE48A0F184138A6D8AF1CEC9DD.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.05.08-05.58.35:674][252]LogEditorTransaction: Undo Delete current selection
+[2019.05.08-05.58.36:171][307]LogEditorTransaction: Undo Add Node
+[2019.05.08-05.58.36:556][352]LogEditorTransaction: Undo Delete current selection
+[2019.05.08-05.59.30:218][174]BlueprintLog: New page: Compile SweetDreamDisplay
+[2019.05.08-05.59.30:769][226]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/SweetDreamDisplayFB20F9D04CA29F47C3ECB1A7FDAD7C04.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/GameMode/SweetDreamDisplay.uasset'
+[2019.05.08-05.59.58:781][703]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.054
+[2019.05.08-05.59.58:783][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines9] ([1] browsable assets)...
+[2019.05.08-05.59.58:790][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines9.Machines9]
+[2019.05.08-05.59.58:790][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines9]
+[2019.05.08-05.59.58:812][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines9_Auto48D7722824E6E7C88DFA31583757F542D.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines9_Auto4.uasset'
+[2019.05.08-05.59.58:823][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines10] ([1] browsable assets)...
+[2019.05.08-05.59.58:832][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines10.Machines10]
+[2019.05.08-05.59.58:832][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines10]
+[2019.05.08-05.59.58:868][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines10_Auto4F753785949447D24392C21A91ABA73E1.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines10_Auto4.uasset'
+[2019.05.08-05.59.58:886][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines11] ([1] browsable assets)...
+[2019.05.08-05.59.58:901][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines11.Machines11]
+[2019.05.08-05.59.58:901][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines11]
+[2019.05.08-05.59.58:942][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines11_Auto45C09EB4640F1E743FEB651AD3B60AFD8.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines11_Auto4.uasset'
+[2019.05.08-05.59.58:970][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines12] ([1] browsable assets)...
+[2019.05.08-05.59.58:990][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines12.Machines12]
+[2019.05.08-05.59.58:991][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines12]
+[2019.05.08-05.59.59:040][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines12_Auto42768AD624DE5E2CEFA0743A32DCB1C68.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines12_Auto4.uasset'
+[2019.05.08-05.59.59:063][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines13] ([1] browsable assets)...
+[2019.05.08-05.59.59:083][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines13.Machines13]
+[2019.05.08-05.59.59:083][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines13]
+[2019.05.08-05.59.59:126][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines13_Auto4351340B245B2CCA5A330B5890FFA7B5B.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines13_Auto4.uasset'
+[2019.05.08-05.59.59:144][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines14] ([1] browsable assets)...
+[2019.05.08-05.59.59:164][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines14.Machines14]
+[2019.05.08-05.59.59:165][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines14]
+[2019.05.08-05.59.59:212][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines14_Auto4A0338FAF4F38DE1D8F72F79CB6BCFBD6.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines14_Auto4.uasset'
+[2019.05.08-05.59.59:239][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines15] ([1] browsable assets)...
+[2019.05.08-05.59.59:249][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines15.Machines15]
+[2019.05.08-05.59.59:249][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines15]
+[2019.05.08-05.59.59:284][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines15_Auto423692923453529548DA3BAA4ED3EF829.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines15_Auto4.uasset'
+[2019.05.08-05.59.59:311][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines16] ([1] browsable assets)...
+[2019.05.08-05.59.59:327][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines16.Machines16]
+[2019.05.08-05.59.59:327][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines16]
+[2019.05.08-05.59.59:368][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines16_Auto48288B67A49D00CBE4B07619A9451FF59.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines16_Auto4.uasset'
+[2019.05.08-05.59.59:396][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines17] ([1] browsable assets)...
+[2019.05.08-05.59.59:416][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines17.Machines17]
+[2019.05.08-05.59.59:416][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines17]
+[2019.05.08-05.59.59:441][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines17_Auto43A23FA51441AD0F4EE1639BA4B008DF7.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines17_Auto4.uasset'
+[2019.05.08-05.59.59:465][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines18] ([1] browsable assets)...
+[2019.05.08-05.59.59:485][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines18.Machines18]
+[2019.05.08-05.59.59:485][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines18]
+[2019.05.08-05.59.59:527][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines18_Auto4E1FD9BF14210387A1644D8B321B07990.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines18_Auto4.uasset'
+[2019.05.08-05.59.59:555][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines19] ([1] browsable assets)...
+[2019.05.08-05.59.59:571][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines19.Machines19]
+[2019.05.08-05.59.59:571][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines19]
+[2019.05.08-05.59.59:614][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines19_Auto426CCEF7F4F25769FB6D247A99A9A83B5.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines19_Auto4.uasset'
+[2019.05.08-05.59.59:643][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines20] ([1] browsable assets)...
+[2019.05.08-05.59.59:665][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines20.Machines20]
+[2019.05.08-05.59.59:665][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines20]
+[2019.05.08-05.59.59:697][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines20_Auto4267383E946C77BC6CB93EC83DCF5C7C5.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines20_Auto4.uasset'
+[2019.05.08-05.59.59:722][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines21] ([1] browsable assets)...
+[2019.05.08-05.59.59:731][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines21.Machines21]
+[2019.05.08-05.59.59:731][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines21]
+[2019.05.08-05.59.59:757][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines21_Auto4324D922D49085200E92FBF969946AE00.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines21_Auto4.uasset'
+[2019.05.08-05.59.59:778][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines22] ([1] browsable assets)...
+[2019.05.08-05.59.59:796][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines22.Machines22]
+[2019.05.08-05.59.59:796][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines22]
+[2019.05.08-05.59.59:835][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines22_Auto403C084A64F39F4E7904EA494F0475968.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines22_Auto4.uasset'
+[2019.05.08-05.59.59:866][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines23] ([1] browsable assets)...
+[2019.05.08-05.59.59:879][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines23.Machines23]
+[2019.05.08-05.59.59:879][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines23]
+[2019.05.08-05.59.59:918][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines23_Auto4978C9FDE45D5C18479ABA4A7650C40F3.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines23_Auto4.uasset'
+[2019.05.08-05.59.59:931][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines24] ([1] browsable assets)...
+[2019.05.08-05.59.59:949][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines24.Machines24]
+[2019.05.08-05.59.59:949][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines24]
+[2019.05.08-05.59.59:988][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines24_Auto47C826BB643E3DB27125669927A696791.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines24_Auto4.uasset'
+[2019.05.08-06.00.00:015][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines25] ([1] browsable assets)...
+[2019.05.08-06.00.00:027][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines25.Machines25]
+[2019.05.08-06.00.00:027][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines25]
+[2019.05.08-06.00.00:051][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines25_Auto4088BC72F43EB719FC3774D864CCE43DC.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines25_Auto4.uasset'
+[2019.05.08-06.00.00:061][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines26] ([1] browsable assets)...
+[2019.05.08-06.00.00:069][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines26.Machines26]
+[2019.05.08-06.00.00:069][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines26]
+[2019.05.08-06.00.00:089][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines26_Auto475A852FB4C6A39CD56C17091A9FB08D8.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines26_Auto4.uasset'
+[2019.05.08-06.00.00:108][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines27] ([1] browsable assets)...
+[2019.05.08-06.00.00:115][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines27.Machines27]
+[2019.05.08-06.00.00:115][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines27]
+[2019.05.08-06.00.00:140][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines27_Auto4572E06154BA960530E73A69C94C76FD3.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines27_Auto4.uasset'
+[2019.05.08-06.00.00:157][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines28] ([1] browsable assets)...
+[2019.05.08-06.00.00:168][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines28.Machines28]
+[2019.05.08-06.00.00:168][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines28]
+[2019.05.08-06.00.00:203][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines28_Auto4A753056C472BB4ABE8248589003468B0.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines28_Auto4.uasset'
+[2019.05.08-06.00.00:216][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines29] ([1] browsable assets)...
+[2019.05.08-06.00.00:236][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines29.Machines29]
+[2019.05.08-06.00.00:236][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines29]
+[2019.05.08-06.00.00:260][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines29_Auto45EDDFF1E40563555D5B570AA08ACCEAA.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines29_Auto4.uasset'
+[2019.05.08-06.00.00:278][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines30] ([1] browsable assets)...
+[2019.05.08-06.00.00:287][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines30.Machines30]
+[2019.05.08-06.00.00:287][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines30]
+[2019.05.08-06.00.00:328][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines30_Auto45812DEBC464A3AD2822F5E852C0E9553.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines30_Auto4.uasset'
+[2019.05.08-06.00.00:346][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines31] ([1] browsable assets)...
+[2019.05.08-06.00.00:359][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines31.Machines31]
+[2019.05.08-06.00.00:359][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines31]
+[2019.05.08-06.00.00:387][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines31_Auto4A2CF410947E5FC8F87C6C388265778B7.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines31_Auto4.uasset'
+[2019.05.08-06.00.00:409][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines32] ([1] browsable assets)...
+[2019.05.08-06.00.00:416][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines32.Machines32]
+[2019.05.08-06.00.00:416][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines32]
+[2019.05.08-06.00.00:434][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines32_Auto489E110CC48A78477EF1447A18DF99F38.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines32_Auto4.uasset'
+[2019.05.08-06.00.00:444][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines33] ([1] browsable assets)...
+[2019.05.08-06.00.00:450][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines33.Machines33]
+[2019.05.08-06.00.00:451][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines33]
+[2019.05.08-06.00.00:476][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines33_Auto49B21E14C4DA30CD68CB40CBC19892969.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines33_Auto4.uasset'
+[2019.05.08-06.00.00:486][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines34] ([1] browsable assets)...
+[2019.05.08-06.00.00:494][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines34.Machines34]
+[2019.05.08-06.00.00:494][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines34]
+[2019.05.08-06.00.00:513][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines34_Auto4CFE3615F450DD880DB09AF971384FDE8.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines34_Auto4.uasset'
+[2019.05.08-06.00.00:523][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines35] ([1] browsable assets)...
+[2019.05.08-06.00.00:531][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines35.Machines35]
+[2019.05.08-06.00.00:531][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines35]
+[2019.05.08-06.00.00:550][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines35_Auto446E10927437C396CD9FE7C9978310DE0.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines35_Auto4.uasset'
+[2019.05.08-06.00.00:560][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines8] ([1] browsable assets)...
+[2019.05.08-06.00.00:567][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines8.Machines8]
+[2019.05.08-06.00.00:567][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines8]
+[2019.05.08-06.00.00:586][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines8_Auto42FDE104B47378A567C77829673BC8FE5.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines8_Auto4.uasset'
+[2019.05.08-06.00.00:597][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines7] ([1] browsable assets)...
+[2019.05.08-06.00.00:604][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines7.Machines7]
+[2019.05.08-06.00.00:604][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines7]
+[2019.05.08-06.00.00:645][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines7_Auto43399203544E9A9884CDB5FA6B4700BAE.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines7_Auto4.uasset'
+[2019.05.08-06.00.00:671][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines3] ([1] browsable assets)...
+[2019.05.08-06.00.00:686][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines3.Machines3]
+[2019.05.08-06.00.00:687][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines3]
+[2019.05.08-06.00.00:724][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines3_Auto40E3716E941D0265AA82525B6C8DD4E61.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines3_Auto4.uasset'
+[2019.05.08-06.00.00:748][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines4] ([1] browsable assets)...
+[2019.05.08-06.00.00:756][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines4.Machines4]
+[2019.05.08-06.00.00:756][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines4]
+[2019.05.08-06.00.00:791][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines4_Auto486960E8847C621311C91109760C6F756.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines4_Auto4.uasset'
+[2019.05.08-06.00.00:818][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines5] ([1] browsable assets)...
+[2019.05.08-06.00.00:837][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines5.Machines5]
+[2019.05.08-06.00.00:838][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines5]
+[2019.05.08-06.00.00:888][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines5_Auto43F1C5D5244A552C74767C2B417740CAD.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines5_Auto4.uasset'
+[2019.05.08-06.00.00:921][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines6] ([1] browsable assets)...
+[2019.05.08-06.00.00:936][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines6.Machines6]
+[2019.05.08-06.00.00:936][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines6]
+[2019.05.08-06.00.00:992][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines6_Auto432E0AEC24B8C240DC205EF9EE7994934.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines6_Auto4.uasset'
+[2019.05.08-06.00.01:016][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines2] ([1] browsable assets)...
+[2019.05.08-06.00.01:037][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines2.Machines2]
+[2019.05.08-06.00.01:037][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines2]
+[2019.05.08-06.00.01:072][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines2_Auto45A830CA54C87E4388B4CD9BA8550D99F.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines2_Auto4.uasset'
+[2019.05.08-06.00.01:087][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Texture/Machines1] ([1] browsable assets)...
+[2019.05.08-06.00.01:095][703]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TopDownBP/Texture/Machines1.Machines1]
+[2019.05.08-06.00.01:095][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Texture/Machines1]
+[2019.05.08-06.00.01:120][703]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines1_Auto4CFF51E784122483D54D943935C721727.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Texture/Machines1_Auto4.uasset'
+[2019.05.08-06.00.01:130][703]LogFileHelpers: Auto-saving content packages took 2.348
+[2019.05.08-06.12.41:902][762]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.08-06.12.41:927][762]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.12.41:927][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-06.12.41:927][762]PIE: New page: PIE session: TopDownExampleMap (9 May 2019 2:12:41 am)
+[2019.05.08-06.12.41:927][762]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.05.08-06.12.41:938][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011206s)
+[2019.05.08-06.12.41:939][762]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.05.08-06.12.41:939][762]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2019.05.08-06.12.41:939][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012086s)
+[2019.05.08-06.12.41:980][762]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-06.12.41:994][762]LogInit: FAudioDevice initialized.
+[2019.05.08-06.12.42:000][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.12.42:027][762]LogLoad: Game class is 'SweetDreamMode_C'
+[2019.05.08-06.12.42:029][762]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.05.08-16.12.42
+[2019.05.08-06.12.42:029][762]LogWorld: Bringing up level for play took: 0.001239
+[2019.05.08-06.12.42:044][762]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.737
+[2019.05.08-06.12.42:044][762]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.12.46:314][263]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.12.46:314][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.12.46:336][263]LogSlate: Window 'SweetDreamOvertime Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.08-06.12.46:375][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-06.12.46:375][263]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.12.46:443][264]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.05.08-06.12.49:182][585]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/SweetDreamDisplay191261A7488138DEB7AFF5A80C191C5F.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/GameMode/SweetDreamDisplay.uasset'
+[2019.05.08-06.12.51:359][834]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.08-06.12.51:381][834]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.12.51:381][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-06.12.51:382][834]PIE: New page: PIE session: TopDownExampleMap (9 May 2019 2:12:51 am)
+[2019.05.08-06.12.51:382][834]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.05.08-06.12.51:392][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010250s)
+[2019.05.08-06.12.51:392][834]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.05.08-06.12.51:393][834]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2019.05.08-06.12.51:393][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011012s)
+[2019.05.08-06.12.51:433][834]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-06.12.51:446][834]LogInit: FAudioDevice initialized.
+[2019.05.08-06.12.51:450][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.12.51:482][834]LogLoad: Game class is 'SweetDreamMode_C'
+[2019.05.08-06.12.51:485][834]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.05.08-16.12.51
+[2019.05.08-06.12.51:485][834]LogWorld: Bringing up level for play took: 0.002308
+[2019.05.08-06.12.51:503][834]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.722
+[2019.05.08-06.12.51:504][834]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.12.53:352][ 38]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.12.53:352][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.12.53:373][ 38]LogSlate: Window 'SweetDreamOvertime Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.08-06.12.53:413][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-06.12.53:413][ 38]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.12.53:475][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.05.08-06.13.02:231][ 76]BlueprintLog: New page: Compile Items
+[2019.05.08-06.13.03:082][154]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.08-06.13.03:103][154]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.13.03:104][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-06.13.03:104][154]PIE: New page: PIE session: TopDownExampleMap (9 May 2019 2:13:03 am)
+[2019.05.08-06.13.03:104][154]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.05.08-06.13.03:112][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008588s)
+[2019.05.08-06.13.03:113][154]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.05.08-06.13.03:113][154]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2019.05.08-06.13.03:113][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009307s)
+[2019.05.08-06.13.03:156][154]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-06.13.03:170][154]LogInit: FAudioDevice initialized.
+[2019.05.08-06.13.03:174][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.13.03:202][154]LogLoad: Game class is 'SweetDreamMode_C'
+[2019.05.08-06.13.03:206][154]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.05.08-16.13.03
+[2019.05.08-06.13.03:206][154]LogWorld: Bringing up level for play took: 0.002326
+[2019.05.08-06.13.03:224][154]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.443
+[2019.05.08-06.13.03:225][154]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.13.04:825][333]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.13.04:825][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.13.04:851][333]LogSlate: Window 'SweetDreamOvertime Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.08-06.13.04:888][333]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-06.13.04:889][333]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.13.04:953][334]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.05.08-06.13.14:238][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.13.26:562][759]Cmd: TRANSACTION UNDO
+[2019.05.08-06.13.26:562][759]LogEditorTransaction: Undo Create Actors
+[2019.05.08-06.13.28:281][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.13.33:173][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.13.37:919][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-06.13.40:396][350]LogActorComponent: ReregisterComponent: (/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Items_C_1.ItemFlipbook) Not currently registered. Aborting.
+[2019.05.08-06.13.42:254][564]LogActorComponent: ReregisterComponent: (/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Items_C_1.ItemFlipbook) Not currently registered. Aborting.
+[2019.05.08-06.13.55:802][ 65]BlueprintLog: New page: Compile Items
+[2019.05.08-06.13.56:296][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Items" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Blueprints/Items.uasset" SILENT=true
+[2019.05.08-06.13.56:364][ 82]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Items7355E8BC46D7FAF2353C9F806FABF8C6.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Blueprints/Items.uasset'
+[2019.05.08-06.14.03:365][866]LogEditorTransaction: Undo Modify Component(s)
+[2019.05.08-06.14.04:740][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.14.04:790][ 34]BlueprintLog: New page: Compile Items
+[2019.05.08-06.14.05:340][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Items" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Blueprints/Items.uasset" SILENT=true
+[2019.05.08-06.14.05:379][ 55]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Items8C6910E1433F73F879C9058407AAD0C8.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Blueprints/Items.uasset'
+[2019.05.08-06.14.09:485][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.14.13:937][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.14.56:480][965]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/TopDownExampleMap_Auto561FA21A4489BD0300F88C2A33C22D7ED.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto5.umap'
+[2019.05.08-06.14.56:528][965]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.358
+[2019.05.08-06.14.56:528][965]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.358
+[2019.05.08-06.14.56:531][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/Items] ([1] browsable assets)...
+[2019.05.08-06.14.56:531][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/Items]
+[2019.05.08-06.14.56:591][965]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Items_Auto5C26D2A5F4E8881B4EEC5418F97728EBC.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Autosaves/Game/TopDownBP/Blueprints/Items_Auto5.uasset'
+[2019.05.08-06.14.56:601][965]LogFileHelpers: Auto-saving content packages took 0.070
+[2019.05.08-06.19.04:924][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.19.08:475][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.19.18:113][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.19.31:894][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.20.06:958][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.20.07:025][346]BlueprintLog: New page: Compile Items
+[2019.05.08-06.20.07:511][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Items" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Blueprints/Items.uasset" SILENT=true
+[2019.05.08-06.20.07:590][361]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/ItemsF7B11E5B4C3148FD945ECF84B95D1547.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Blueprints/Items.uasset'
+[2019.05.08-06.20.12:437][920]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.08-06.20.12:467][920]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.20.12:467][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-06.20.12:467][920]PIE: New page: PIE session: TopDownExampleMap (9 May 2019 2:20:12 am)
+[2019.05.08-06.20.12:467][920]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.05.08-06.20.12:478][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010840s)
+[2019.05.08-06.20.12:478][920]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.05.08-06.20.12:479][920]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2019.05.08-06.20.12:479][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011619s)
+[2019.05.08-06.20.12:527][920]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-06.20.12:540][920]LogInit: FAudioDevice initialized.
+[2019.05.08-06.20.12:579][920]LogLoad: Game class is 'SweetDreamMode_C'
+[2019.05.08-06.20.12:583][920]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.05.08-16.20.12
+[2019.05.08-06.20.12:583][920]LogWorld: Bringing up level for play took: 0.002405
+[2019.05.08-06.20.12:599][920]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.177
+[2019.05.08-06.20.12:599][920]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.20.14:348][116]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.20.14:348][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.20.14:388][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-06.20.14:389][116]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.20.14:440][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.20.14:462][117]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.05.08-06.20.18:138][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.20.20:105][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.20.20:170][754]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.08-06.20.20:191][754]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.20.20:191][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-06.20.20:191][754]PIE: New page: PIE session: TopDownExampleMap (9 May 2019 2:20:20 am)
+[2019.05.08-06.20.20:191][754]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.05.08-06.20.20:201][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010373s)
+[2019.05.08-06.20.20:202][754]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.05.08-06.20.20:202][754]LogPlayLevel: PIE: World Init took: (0.000583s)
+[2019.05.08-06.20.20:202][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011088s)
+[2019.05.08-06.20.20:242][754]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-06.20.20:258][754]LogInit: FAudioDevice initialized.
+[2019.05.08-06.20.20:290][754]LogLoad: Game class is 'SweetDreamMode_C'
+[2019.05.08-06.20.20:293][754]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.05.08-16.20.20
+[2019.05.08-06.20.20:293][754]LogWorld: Bringing up level for play took: 0.002403
+[2019.05.08-06.20.20:308][754]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.468
+[2019.05.08-06.20.20:309][754]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.20.23:073][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.20.23:073][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.20.23:113][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-06.20.23:113][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.20.23:174][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.20.23:197][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.05.08-06.20.27:604][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.20.38:468][809]LogEditorViewport: Clicking on Actor (LMB): Items_C (Items)
+[2019.05.08-06.20.40:804][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.20.42:724][283]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (FirstMap)
+[2019.05.08-06.20.43:331][347]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (FirstMap)
+[2019.05.08-06.20.43:846][406]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (FirstMap)
+[2019.05.08-06.20.44:271][455]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (FirstMap)
+[2019.05.08-06.20.44:673][500]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (FirstMap)
+[2019.05.08-06.20.46:790][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.20.53:974][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.20.54:351][547]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/TopDownExampleMap247424E64A9A1EB7FE377B9C7467B82B.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.05.08-06.20.54:563][547]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/TopDownExampleMap_BuiltDataBC2B4FDA444A42D546F7F7AD8306D5E9.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.05.08-06.20.57:502][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.20.57:586][862]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.08-06.20.57:605][862]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.20.57:605][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-06.20.57:605][862]PIE: New page: PIE session: TopDownExampleMap (9 May 2019 2:20:57 am)
+[2019.05.08-06.20.57:605][862]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.05.08-06.20.57:616][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010715s)
+[2019.05.08-06.20.57:616][862]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.05.08-06.20.57:616][862]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2019.05.08-06.20.57:616][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011493s)
+[2019.05.08-06.20.57:656][862]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-06.20.57:669][862]LogInit: FAudioDevice initialized.
+[2019.05.08-06.20.57:706][862]LogLoad: Game class is 'SweetDreamMode_C'
+[2019.05.08-06.20.57:710][862]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.05.08-16.20.57
+[2019.05.08-06.20.57:710][862]LogWorld: Bringing up level for play took: 0.002743
+[2019.05.08-06.20.57:726][862]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.95
+[2019.05.08-06.20.57:726][862]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.21.02:069][356]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.21.02:070][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.21.02:108][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-06.21.02:108][356]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.21.02:166][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.21.02:187][357]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.05.08-06.21.02:880][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.21.09:457][183]BlueprintLog: New page: Compile Items
+[2019.05.08-06.21.11:167][363]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.08-06.21.11:193][363]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.21.11:193][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-06.21.11:193][363]PIE: New page: PIE session: TopDownExampleMap (9 May 2019 2:21:11 am)
+[2019.05.08-06.21.11:193][363]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.05.08-06.21.11:205][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010815s)
+[2019.05.08-06.21.11:205][363]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.05.08-06.21.11:205][363]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2019.05.08-06.21.11:205][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011748s)
+[2019.05.08-06.21.11:244][363]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-06.21.11:258][363]LogInit: FAudioDevice initialized.
+[2019.05.08-06.21.11:293][363]LogLoad: Game class is 'SweetDreamMode_C'
+[2019.05.08-06.21.11:296][363]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.05.08-16.21.11
+[2019.05.08-06.21.11:297][363]LogWorld: Bringing up level for play took: 0.002786
+[2019.05.08-06.21.11:312][363]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.536
+[2019.05.08-06.21.11:313][363]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.21.16:113][920]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.21.16:113][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.21.16:151][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-06.21.16:151][920]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.21.16:198][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.21.16:220][921]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.05.08-06.21.17:925][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.21.34:616][444]LogSlate: Took 0.010377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.05.08-06.22.14:760][209]BlueprintLog: New page: Compile SweetDreamDisplay
+[2019.05.08-06.22.14:765][209]LogBlueprint: Error: [Compiler SweetDreamDisplay] Binding: Property ' Text Delegate ' on Widget ' TextBlock_154 ': Member:ItemCollect Unable to bind Enum Property, unsupported type.
+[2019.05.08-06.22.14:809][209]LogBlueprint: Warning: [Compiler SweetDreamDisplay] [4142.89] Compile of SweetDreamDisplay failed. 1 Fatal Issue(s) 0 Warning(s) [in 48 ms] (/Game/TopDownBP/GameMode/SweetDreamDisplay.SweetDreamDisplay)
+[2019.05.08-06.22.16:143][368]BlueprintLog: New page: Compile SweetDreamDisplay
+[2019.05.08-06.22.16:148][368]LogBlueprint: Error: [Compiler SweetDreamDisplay] Binding: Property ' Text Delegate ' on Widget ' TextBlock_154 ': Member:ItemCollect Unable to bind Enum Property, unsupported type.
+[2019.05.08-06.22.16:186][368]LogBlueprint: Warning: [Compiler SweetDreamDisplay] [4144.26] Compile of SweetDreamDisplay failed. 1 Fatal Issue(s) 0 Warning(s) [in 42 ms] (/Game/TopDownBP/GameMode/SweetDreamDisplay.SweetDreamDisplay)
+[2019.05.08-06.22.27:753][751]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_154), cannot focus it
+[2019.05.08-06.22.28:329][820]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_154), cannot focus it
+[2019.05.08-06.22.35:338][655]BlueprintLog: New page: Compile SweetDreamDisplay
+[2019.05.08-06.22.35:343][655]LogBlueprint: Error: [Compiler SweetDreamDisplay] Binding: Property ' Text Delegate ' on Widget ' TextBlock_154 ': Member:ItemCollect Unable to bind Enum Property, unsupported type.
+[2019.05.08-06.22.35:391][655]LogBlueprint: Warning: [Compiler SweetDreamDisplay] [4163.47] Compile of SweetDreamDisplay failed. 1 Fatal Issue(s) 0 Warning(s) [in 53 ms] (/Game/TopDownBP/GameMode/SweetDreamDisplay.SweetDreamDisplay)
+[2019.05.08-06.22.37:068][855]LogEditorTransaction: Undo Delete current selection
+[2019.05.08-06.22.38:120][965]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/SweetDreamDisplay75B9E5504A8C7986A7790A8E6601D29E.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/GameMode/SweetDreamDisplay.uasset'
+[2019.05.08-06.23.53:197][220]BlueprintLog: New page: Compile SweetDreamDisplay
+[2019.05.08-06.24.03:060][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Items" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Blueprints/Items.uasset" SILENT=true
+[2019.05.08-06.24.03:097][376]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Items2923F5214538AEB05A85F5AAD04DFE8C.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Blueprints/Items.uasset'
+[2019.05.08-06.24.04:667][519]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/TopDownExampleMapE5B85D08421E96D9F5FDA48E55F35C41.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.05.08-06.24.04:913][519]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/TopDownExampleMap_BuiltData1B8D48AF42DB678243774297B3B4A03C.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.05.08-06.24.05:265][540]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.08-06.24.05:321][540]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.24.05:321][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-06.24.05:321][540]PIE: New page: PIE session: TopDownExampleMap (9 May 2019 2:24:05 am)
+[2019.05.08-06.24.05:321][540]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.05.08-06.24.05:332][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010239s)
+[2019.05.08-06.24.05:332][540]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.05.08-06.24.05:332][540]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2019.05.08-06.24.05:332][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010955s)
+[2019.05.08-06.24.05:386][540]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-06.24.05:401][540]LogInit: FAudioDevice initialized.
+[2019.05.08-06.24.05:437][540]LogLoad: Game class is 'SweetDreamMode_C'
+[2019.05.08-06.24.05:439][540]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.05.08-16.24.05
+[2019.05.08-06.24.05:439][540]LogWorld: Bringing up level for play took: 0.001477
+[2019.05.08-06.24.05:452][540]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.678
+[2019.05.08-06.24.05:453][540]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.24.09:217][979]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.24.09:217][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.24.09:258][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-06.24.09:258][979]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.24.09:313][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.24.09:333][980]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.05.08-06.24.10:212][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.24.20:135][187]BlueprintLog: New page: Compile SweetDreamDisplay
+[2019.05.08-06.24.35:466][917]BlueprintLog: New page: Compile SweetDreamDisplay
+[2019.05.08-06.24.36:275][993]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/SweetDreamDisplay75F84BEC467EB6F1DCDF46B1163A9AAB.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/GameMode/SweetDreamDisplay.uasset'
+[2019.05.08-06.24.37:898][172]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.08-06.24.37:939][172]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.24.37:939][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-06.24.37:939][172]PIE: New page: PIE session: TopDownExampleMap (9 May 2019 2:24:37 am)
+[2019.05.08-06.24.37:939][172]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.05.08-06.24.37:948][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008741s)
+[2019.05.08-06.24.37:948][172]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.05.08-06.24.37:949][172]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2019.05.08-06.24.37:949][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009431s)
+[2019.05.08-06.24.37:993][172]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-06.24.38:005][172]LogInit: FAudioDevice initialized.
+[2019.05.08-06.24.38:039][172]LogLoad: Game class is 'SweetDreamMode_C'
+[2019.05.08-06.24.38:042][172]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.05.08-16.24.38
+[2019.05.08-06.24.38:043][172]LogWorld: Bringing up level for play took: 0.002653
+[2019.05.08-06.24.38:058][172]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.716
+[2019.05.08-06.24.38:058][172]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.24.42:154][644]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.24.42:155][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.24.42:193][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-06.24.42:194][644]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.24.42:247][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.24.42:268][645]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.05.08-06.24.43:869][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.24.51:474][563]BlueprintLog: New page: Compile SweetDreamDisplay
+[2019.05.08-06.24.51:970][601]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/SweetDreamDisplay6A9B29F946578D4975AA92BDF096975B.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/GameMode/SweetDreamDisplay.uasset'
+[2019.05.08-06.24.53:098][724]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.08-06.24.53:123][724]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.24.53:123][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-06.24.53:123][724]PIE: New page: PIE session: TopDownExampleMap (9 May 2019 2:24:53 am)
+[2019.05.08-06.24.53:123][724]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.05.08-06.24.53:131][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008264s)
+[2019.05.08-06.24.53:132][724]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.05.08-06.24.53:132][724]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2019.05.08-06.24.53:132][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008960s)
+[2019.05.08-06.24.53:178][724]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-06.24.53:191][724]LogInit: FAudioDevice initialized.
+[2019.05.08-06.24.53:230][724]LogLoad: Game class is 'SweetDreamMode_C'
+[2019.05.08-06.24.53:233][724]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.05.08-16.24.53
+[2019.05.08-06.24.53:234][724]LogWorld: Bringing up level for play took: 0.002444
+[2019.05.08-06.24.53:250][724]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.476
+[2019.05.08-06.24.53:250][724]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.24.56:698][122]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.24.56:698][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.24.56:733][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-06.24.56:734][122]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.24.56:790][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.24.56:814][123]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.05.08-06.24.58:403][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.27.44:332][256]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.08-06.27.44:358][256]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.27.44:359][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-06.27.44:359][256]PIE: New page: PIE session: TopDownExampleMap (9 May 2019 2:27:44 am)
+[2019.05.08-06.27.44:359][256]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.05.08-06.27.44:373][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013798s)
+[2019.05.08-06.27.44:373][256]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.05.08-06.27.44:373][256]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2019.05.08-06.27.44:373][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014652s)
+[2019.05.08-06.27.44:417][256]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-06.27.44:430][256]LogInit: FAudioDevice initialized.
+[2019.05.08-06.27.44:461][256]LogLoad: Game class is 'SweetDreamMode_C'
+[2019.05.08-06.27.44:463][256]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.05.08-16.27.44
+[2019.05.08-06.27.44:464][256]LogWorld: Bringing up level for play took: 0.001543
+[2019.05.08-06.27.44:477][256]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.294
+[2019.05.08-06.27.44:478][256]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.27.47:307][586]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.27.47:307][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.27.47:347][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-06.27.47:348][586]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.27.47:403][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.27.47:425][587]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.05.08-06.27.52:088][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.28.23:646][519]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/GameMode/SweetDreamMode.SweetDreamMode
+[2019.05.08-06.31.14:536][940]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/SweetDreamMode922BD2374B4F140CE28F8E95592CFE2D.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/GameMode/SweetDreamMode.uasset'
+[2019.05.08-06.31.15:387][ 38]BlueprintLog: New page: Compile SweetDreamMode
+[2019.05.08-06.31.15:413][ 38]LogBlueprint: Error: [Compiler SweetDreamMode] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2019.05.08-06.31.15:624][ 38]LogBlueprint: Warning: [Compiler SweetDreamMode] [4683.71] Compile of SweetDreamMode failed. 1 Fatal Issue(s) 0 Warning(s) [in 237 ms] (/Game/TopDownBP/GameMode/SweetDreamMode.SweetDreamMode)
+[2019.05.08-06.31.15:959][ 72]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/SweetDreamMode2CC229E0471CE0FBD75D5CA8C3FD1508.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/GameMode/SweetDreamMode.uasset'
+[2019.05.08-06.31.20:467][605]BlueprintLog: New page: Compile SweetDreamMode
+[2019.05.08-06.31.21:008][637]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/SweetDreamMode1841F0414D5BB0DC916A3189423E6FBE.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/GameMode/SweetDreamMode.uasset'
+[2019.05.08-06.31.22:285][777]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.08-06.31.22:308][777]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.31.22:308][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-06.31.22:308][777]PIE: New page: PIE session: TopDownExampleMap (9 May 2019 2:31:22 am)
+[2019.05.08-06.31.22:308][777]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.05.08-06.31.22:318][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010400s)
+[2019.05.08-06.31.22:319][777]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.05.08-06.31.22:319][777]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2019.05.08-06.31.22:319][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011121s)
+[2019.05.08-06.31.22:361][777]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-06.31.22:378][777]LogInit: FAudioDevice initialized.
+[2019.05.08-06.31.22:414][777]LogLoad: Game class is 'SweetDreamMode_C'
+[2019.05.08-06.31.22:418][777]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.05.08-16.31.22
+[2019.05.08-06.31.22:418][777]LogWorld: Bringing up level for play took: 0.002458
+[2019.05.08-06.31.22:434][777]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.336
+[2019.05.08-06.31.22:434][777]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.31.24:639][ 26]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.31.24:639][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.31.24:682][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-06.31.24:682][ 26]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.31.24:742][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.31.24:764][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.05.08-06.31.25:497][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-06.31.31:073][760]BlueprintLog: New page: Compile SweetDreamDisplay
+[2019.05.08-06.31.31:838][837]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.08-06.31.31:865][837]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.31.31:865][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-06.31.31:866][837]PIE: New page: PIE session: TopDownExampleMap (9 May 2019 2:31:31 am)
+[2019.05.08-06.31.31:866][837]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.05.08-06.31.31:875][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008850s)
+[2019.05.08-06.31.31:875][837]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.05.08-06.31.31:875][837]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2019.05.08-06.31.31:875][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009543s)
+[2019.05.08-06.31.31:923][837]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.08-06.31.31:936][837]LogInit: FAudioDevice initialized.
+[2019.05.08-06.31.31:940][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.31.31:974][837]LogLoad: Game class is 'SweetDreamMode_C'
+[2019.05.08-06.31.31:977][837]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.05.08-16.31.31
+[2019.05.08-06.31.31:978][837]LogWorld: Bringing up level for play took: 0.002514
+[2019.05.08-06.31.31:997][837]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.773
+[2019.05.08-06.31.31:998][837]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.31.37:290][429]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.31.37:291][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-06.31.37:311][429]LogSlate: Window 'SweetDreamOvertime Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.08-06.31.37:343][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-06.31.37:343][429]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.05.08-06.31.37:398][430]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.05.08-06.31.39:379][655]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/SweetDreamDisplayCD755057468EF42CFDF9D6BCF1AF74ED.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/GameMode/SweetDreamDisplay.uasset'
+[2019.05.08-06.32.38:842][532]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/TopDownExampleMap1174BC41495248FB2AFC8B888733B81C.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.05.08-06.32.39:054][532]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/TopDownExampleMap_BuiltDataFCEEE55C4712A3AEED2566AE01B6155D.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.05.08-06.32.50:840][386]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.08-06.33.07:202][ 92]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/TopDownExampleMap5885478943B9454243A9ED89C595E646.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.05.08-06.33.07:400][ 92]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/TopDownExampleMap_BuiltData9E1B2A10454F862F3C711D8561FF14B4.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.05.08-06.33.12:905][503]LogSlate: Window 'Save Content' being destroyed
+[2019.05.08-06.33.27:227][742]LogSlate: Window 'Save Content' being destroyed
+[2019.05.08-06.33.27:266][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines1" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines1.uasset" SILENT=true
+[2019.05.08-06.33.27:283][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines1C9AE665B433E7839DC19DCB48D7BA088.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines1.uasset'
+[2019.05.08-06.33.27:329][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines10" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines10.uasset" SILENT=true
+[2019.05.08-06.33.27:348][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines101CB13547431EF34689DA8BB56E4BB416.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines10.uasset'
+[2019.05.08-06.33.27:384][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines11" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines11.uasset" SILENT=true
+[2019.05.08-06.33.27:403][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines11020DFCE64DF153F82CF8C098A84219CE.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines11.uasset'
+[2019.05.08-06.33.27:429][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines12" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines12.uasset" SILENT=true
+[2019.05.08-06.33.27:446][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines1218F868A24BD902CC6FBC2280A6EC9E8F.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines12.uasset'
+[2019.05.08-06.33.27:473][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines13" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines13.uasset" SILENT=true
+[2019.05.08-06.33.27:507][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines13917FA6CB487B5CFF0531249E3243621E.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines13.uasset'
+[2019.05.08-06.33.27:544][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines14" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines14.uasset" SILENT=true
+[2019.05.08-06.33.27:577][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines14C5FEF79E4DDFE646D895F99A4CB1A739.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines14.uasset'
+[2019.05.08-06.33.27:617][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines15" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines15.uasset" SILENT=true
+[2019.05.08-06.33.27:652][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines1510C6F2774A83E06A1B36AA9987B1370E.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines15.uasset'
+[2019.05.08-06.33.27:693][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines16" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines16.uasset" SILENT=true
+[2019.05.08-06.33.27:730][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines167594F27C4A221B14C3B814B9E05C6015.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines16.uasset'
+[2019.05.08-06.33.27:768][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines17" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines17.uasset" SILENT=true
+[2019.05.08-06.33.27:807][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines1784E068D44EC902144F294C99F4FC4880.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines17.uasset'
+[2019.05.08-06.33.27:855][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines18" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines18.uasset" SILENT=true
+[2019.05.08-06.33.27:889][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines18D603729D49F2B6E490F8C3B89C2728A9.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines18.uasset'
+[2019.05.08-06.33.27:934][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines19" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines19.uasset" SILENT=true
+[2019.05.08-06.33.27:976][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines19969E20EC4A378AC1776ED1AEFC04A659.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines19.uasset'
+[2019.05.08-06.33.28:026][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines2" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines2.uasset" SILENT=true
+[2019.05.08-06.33.28:070][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines20764B1D74BC5C467CDECC282F070E4A7.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines2.uasset'
+[2019.05.08-06.33.28:117][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines20" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines20.uasset" SILENT=true
+[2019.05.08-06.33.28:157][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines20BB2D0BB64E80CC646EE3F6B84EF1C24F.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines20.uasset'
+[2019.05.08-06.33.28:200][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines21" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines21.uasset" SILENT=true
+[2019.05.08-06.33.28:229][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines21C2290CB4430AB3D8B309BD913B28F64C.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines21.uasset'
+[2019.05.08-06.33.28:273][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines22" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines22.uasset" SILENT=true
+[2019.05.08-06.33.28:294][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines22A4254F5243DB0628CD8D9D879240B7FD.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines22.uasset'
+[2019.05.08-06.33.28:332][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines23" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines23.uasset" SILENT=true
+[2019.05.08-06.33.28:349][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines23318D4D5D46D15655F11EAEB280EA016F.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines23.uasset'
+[2019.05.08-06.33.28:392][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines24" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines24.uasset" SILENT=true
+[2019.05.08-06.33.28:426][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines24356604C14155C6058F0288A24556D5B6.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines24.uasset'
+[2019.05.08-06.33.28:455][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines25" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines25.uasset" SILENT=true
+[2019.05.08-06.33.28:488][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines257D81EDBF44E492CA68D4F0848A11435B.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines25.uasset'
+[2019.05.08-06.33.28:528][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines26" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines26.uasset" SILENT=true
+[2019.05.08-06.33.28:551][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines264E4843D843F210D394867DB4FB35AD2B.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines26.uasset'
+[2019.05.08-06.33.28:602][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines27" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines27.uasset" SILENT=true
+[2019.05.08-06.33.28:644][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines27AE5B2FFC47B2E675ED9E55BAFC8B2F59.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines27.uasset'
+[2019.05.08-06.33.28:694][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines28" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines28.uasset" SILENT=true
+[2019.05.08-06.33.28:719][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines28ECDA3B8B477D9056B79049A5B14339CB.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines28.uasset'
+[2019.05.08-06.33.28:741][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines29" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines29.uasset" SILENT=true
+[2019.05.08-06.33.28:756][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines290B04D930428B5218AE36FD81788984DF.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines29.uasset'
+[2019.05.08-06.33.28:777][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines3" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines3.uasset" SILENT=true
+[2019.05.08-06.33.28:792][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines3A57154F64ED8B9D64DAB8A806F00D6A8.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines3.uasset'
+[2019.05.08-06.33.28:811][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines30" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines30.uasset" SILENT=true
+[2019.05.08-06.33.28:835][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines301821AEB44AD97FD137510E8EF8F31BBD.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines30.uasset'
+[2019.05.08-06.33.28:869][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines31" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines31.uasset" SILENT=true
+[2019.05.08-06.33.28:896][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines3106C078154FAB8D3B46D252872C899D1A.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines31.uasset'
+[2019.05.08-06.33.28:934][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines32" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines32.uasset" SILENT=true
+[2019.05.08-06.33.28:972][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines3256A926164F935027420F30AEDCCA5661.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines32.uasset'
+[2019.05.08-06.33.29:017][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines33" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines33.uasset" SILENT=true
+[2019.05.08-06.33.29:064][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines33BB0BBA8144588E6320B521863ED39DA2.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines33.uasset'
+[2019.05.08-06.33.29:103][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines34" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines34.uasset" SILENT=true
+[2019.05.08-06.33.29:130][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines3486E0952C41A674695195B19757E29F54.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines34.uasset'
+[2019.05.08-06.33.29:163][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines35" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines35.uasset" SILENT=true
+[2019.05.08-06.33.29:178][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines353583A5414E24EEDA5E289C95552EFAD2.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines35.uasset'
+[2019.05.08-06.33.29:202][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines4" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines4.uasset" SILENT=true
+[2019.05.08-06.33.29:214][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines40AB91D204845EB99C1DA39A41BBB3C1C.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines4.uasset'
+[2019.05.08-06.33.29:251][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines5" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines5.uasset" SILENT=true
+[2019.05.08-06.33.29:265][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines5782AB9994EC885A530FAC19847AA3040.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines5.uasset'
+[2019.05.08-06.33.29:297][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines6" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines6.uasset" SILENT=true
+[2019.05.08-06.33.29:319][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines6474F96004128D075EB18BF9AB764D2D8.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines6.uasset'
+[2019.05.08-06.33.29:353][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines7" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines7.uasset" SILENT=true
+[2019.05.08-06.33.29:373][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines7E07DE02A4FEB799072FDBB9B2CDB3F85.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines7.uasset'
+[2019.05.08-06.33.29:408][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines8" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines8.uasset" SILENT=true
+[2019.05.08-06.33.29:423][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines88178A3474A4B7606659AC4BBA02BC3CB.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines8.uasset'
+[2019.05.08-06.33.29:443][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Texture/Machines9" FILE="../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines9.uasset" SILENT=true
+[2019.05.08-06.33.29:460][742]LogSavePackage: Moving '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Saved/Machines90229E66B43FA0114624525B333CB80EA.tmp' to '../../../../../../Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Texture/Machines9.uasset'
+[2019.05.08-06.33.29:741][742]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.08-06.33.29:802][742]LogSlate: Window 'SweetDreamOvertime - Unreal Editor' being destroyed
+[2019.05.08-06.33.30:377][743]Cmd: QUIT_EDITOR
+[2019.05.08-06.33.30:793][743]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.08-06.33.30:828][743]LogExit: Preparing to exit.
+[2019.05.08-06.33.31:081][743]LogDirectoryWatcher: A directory notification failed for 'C:/Users/gteng/SweetDreamOvertime/SweetDreamOvertime/Content/', and we were unable to create a new request.
+[2019.05.08-06.33.31:155][743]LogExit: Editor shut down
+[2019.05.08-06.33.31:156][743]LogExit: Transaction tracking system shut down
+[2019.05.08-06.33.31:555][743]LogExit: Object subsystem successfully closed.
+[2019.05.08-06.33.31:583][743]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.05.08-06.33.31:590][743]LogD3D11RHI: Shutdown
+[2019.05.08-06.33.31:590][743]LogD3D11RHI: CleanupD3DDevice
+[2019.05.08-06.33.31:601][743]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.05.08-06.33.31:640][743]LogModuleManager: Shutting down and abandoning module TextureEditor (634)
+[2019.05.08-06.33.31:640][743]LogModuleManager: Shutting down and abandoning module SequencerWidgets (632)
+[2019.05.08-06.33.31:640][743]LogModuleManager: Shutting down and abandoning module BlueprintGraph (630)
+[2019.05.08-06.33.31:640][743]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2019.05.08-06.33.31:640][743]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2019.05.08-06.33.31:640][743]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2019.05.08-06.33.31:640][743]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2019.05.08-06.33.31:640][743]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module MeshBuilder (612)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.05.08-06.33.31:641][743]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.05.08-06.33.31:642][743]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.05.08-06.33.32:513][743]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.05.08-06.33.32:513][743]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.05.08-06.33.32:513][743]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.05.08-06.33.32:513][743]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.05.08-06.33.32:513][743]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.05.08-06.33.32:513][743]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.05.08-06.33.32:513][743]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.05.08-06.33.32:513][743]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.05.08-06.33.32:513][743]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.05.08-06.33.32:514][743]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.05.08-06.33.32:514][743]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.05.08-06.33.32:514][743]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.05.08-06.33.32:514][743]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.05.08-06.33.32:514][743]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.05.08-06.33.32:514][743]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.05.08-06.33.32:514][743]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.05.08-06.33.32:514][743]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.05.08-06.33.32:514][743]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.05.08-06.33.32:514][743]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.05.08-06.33.32:514][743]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.05.08-06.33.32:514][743]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.05.08-06.33.32:514][743]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.05.08-06.33.32:514][743]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.05.08-06.33.32:577][743]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.05.08-06.33.32:577][743]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.05.08-06.33.32:577][743]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.05.08-06.33.32:577][743]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.05.08-06.33.32:577][743]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.05.08-06.33.32:577][743]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.05.08-06.33.32:578][743]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.05.08-06.33.32:578][743]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.05.08-06.33.32:578][743]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.05.08-06.33.32:578][743]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.05.08-06.33.32:588][743]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.05.08-06.33.32:588][743]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.05.08-06.33.32:591][743]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.05.08-06.33.32:591][743]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.05.08-06.33.32:591][743]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.05.08-06.33.32:591][743]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.05.08-06.33.32:591][743]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.05.08-06.33.32:592][743]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.05.08-06.33.32:592][743]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.05.08-06.33.32:592][743]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.05.08-06.33.32:592][743]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.05.08-06.33.32:592][743]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.05.08-06.33.32:592][743]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.05.08-06.33.32:592][743]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.05.08-06.33.32:592][743]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.05.08-06.33.32:592][743]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.05.08-06.33.32:592][743]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.05.08-06.33.32:592][743]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.05.08-06.33.32:592][743]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.05.08-06.33.32:592][743]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.05.08-06.33.32:592][743]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.05.08-06.33.32:592][743]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.05.08-06.33.32:600][743]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.05.08-06.33.32:691][743]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.05.08-06.33.32:692][743]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.05.08-06.33.32:692][743]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.05.08-06.33.32:692][743]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.05.08-06.33.32:692][743]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.05.08-06.33.32:692][743]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.05.08-06.33.32:692][743]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.05.08-06.33.32:692][743]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.05.08-06.33.32:692][743]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.05.08-06.33.32:692][743]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.05.08-06.33.32:692][743]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.05.08-06.33.32:692][743]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.05.08-06.33.32:692][743]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.05.08-06.33.32:692][743]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.05.08-06.33.32:692][743]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.05.08-06.33.32:692][743]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.05.08-06.33.32:692][743]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.05.08-06.33.32:702][743]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.05.08-06.33.32:702][743]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.05.08-06.33.32:702][743]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.05.08-06.33.32:702][743]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.05.08-06.33.32:702][743]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.05.08-06.33.32:702][743]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.05.08-06.33.32:702][743]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.05.08-06.33.32:702][743]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.05.08-06.33.32:702][743]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.05.08-06.33.32:702][743]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.05.08-06.33.32:702][743]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.05.08-06.33.32:702][743]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.05.08-06.33.32:702][743]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.05.08-06.33.32:702][743]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.05.08-06.33.32:703][743]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.05.08-06.33.32:703][743]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.05.08-06.33.32:703][743]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.05.08-06.33.32:703][743]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.05.08-06.33.32:703][743]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.05.08-06.33.32:703][743]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.05.08-06.33.32:703][743]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.05.08-06.33.32:703][743]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.05.08-06.33.32:703][743]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.05.08-06.33.32:703][743]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.05.08-06.33.32:703][743]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.05.08-06.33.32:703][743]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.05.08-06.33.32:703][743]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.05.08-06.33.32:704][743]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.05.08-06.33.32:704][743]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.05.08-06.33.32:704][743]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.05.08-06.33.32:704][743]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.05.08-06.33.32:704][743]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.05.08-06.33.32:704][743]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.05.08-06.33.32:704][743]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.05.08-06.33.32:704][743]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.05.08-06.33.32:704][743]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.05.08-06.33.32:704][743]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.05.08-06.33.32:704][743]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.05.08-06.33.32:704][743]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.05.08-06.33.32:704][743]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.05.08-06.33.32:704][743]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.05.08-06.33.32:704][743]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.05.08-06.33.32:805][743]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.05.08-06.33.32:906][743]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.05.08-06.33.32:906][743]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.05.08-06.33.32:906][743]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.05.08-06.33.32:906][743]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.05.08-06.33.32:906][743]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.05.08-06.33.32:906][743]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.05.08-06.33.32:906][743]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.05.08-06.33.32:908][743]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.05.08-06.33.32:908][743]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.05.08-06.33.32:908][743]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.05.08-06.33.32:908][743]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.05.08-06.33.32:910][743]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.05.08-06.33.32:912][743]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.05.08-06.33.32:912][743]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.05.08-06.33.32:912][743]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.05.08-06.33.32:912][743]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.05.08-06.33.32:912][743]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.05.08-06.33.32:912][743]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.05.08-06.33.32:912][743]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.05.08-06.33.32:915][743]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.05.08-06.33.32:922][743]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.05.08-06.33.32:922][743]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.05.08-06.33.32:922][743]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.05.08-06.33.32:922][743]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.05.08-06.33.32:922][743]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.05.08-06.33.32:922][743]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.05.08-06.33.32:923][743]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.05.08-06.33.32:923][743]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.05.08-06.33.32:923][743]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.05.08-06.33.32:923][743]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.05.08-06.33.32:923][743]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.05.08-06.33.32:923][743]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.05.08-06.33.32:923][743]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.05.08-06.33.32:923][743]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.05.08-06.33.32:923][743]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.05.08-06.33.32:923][743]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.05.08-06.33.32:923][743]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.05.08-06.33.32:923][743]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.05.08-06.33.32:923][743]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.05.08-06.33.32:924][743]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.05.08-06.33.32:928][743]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.05.08-06.33.32:928][743]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.05.08-06.33.32:928][743]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.05.08-06.33.32:928][743]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.05.08-06.33.32:928][743]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.05.08-06.33.32:928][743]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.05.08-06.33.32:928][743]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.05.08-06.33.32:928][743]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.05.08-06.33.32:928][743]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.05.08-06.33.32:928][743]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.05.08-06.33.32:928][743]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.05.08-06.33.32:928][743]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.05.08-06.33.32:929][743]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.05.08-06.33.32:929][743]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.05.08-06.33.32:929][743]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.05.08-06.33.32:929][743]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.05.08-06.33.32:929][743]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.05.08-06.33.32:929][743]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.05.08-06.33.33:012][743]LogDerivedDataCache: Shutdown
+[2019.05.08-06.33.33:012][743]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.05.08-06.33.33:012][743]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.05.08-06.33.33:012][743]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.05.08-06.33.33:012][743]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.05.08-06.33.33:012][743]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.05.08-06.33.33:012][743]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.05.08-06.33.33:012][743]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.05.08-06.33.33:012][743]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.05.08-06.33.33:012][743]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.05.08-06.33.33:012][743]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.05.08-06.33.33:012][743]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.05.08-06.33.33:012][743]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.05.08-06.33.33:012][743]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.05.08-06.33.33:012][743]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.05.08-06.33.33:012][743]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.05.08-06.33.33:012][743]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.05.08-06.33.33:012][743]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.05.08-06.33.33:012][743]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.05.08-06.33.33:013][743]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.05.08-06.33.33:013][743]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.05.08-06.33.33:013][743]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.05.08-06.33.33:013][743]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.05.08-06.33.33:013][743]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.05.08-06.33.33:014][743]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.05.08-06.33.33:014][743]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.05.08-06.33.33:015][743]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.05.08-06.33.33:015][743]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.05.08-06.33.33:021][743]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.05.08-06.33.33:022][743]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.05.08-06.33.33:022][743]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.05.08-06.33.33:022][743]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.05.08-06.33.33:022][743]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.05.08-06.33.33:022][743]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.05.08-06.33.33:022][743]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.05.08-06.33.33:022][743]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.05.08-06.33.33:022][743]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.05.08-06.33.33:022][743]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.05.08-06.33.33:022][743]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.05.08-06.33.33:022][743]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.05.08-06.33.33:022][743]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.05.08-06.33.33:022][743]LogHMD: Freeing OpenVRDLLHandle.
+[2019.05.08-06.33.33:022][743]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.05.08-06.33.33:022][743]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.05.08-06.33.33:022][743]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.05.08-06.33.33:022][743]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.05.08-06.33.33:022][743]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.05.08-06.33.33:023][743]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.05.08-06.33.33:023][743]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.05.08-06.33.33:040][743]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.05.08-06.33.33:040][743]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.05.08-06.33.33:040][743]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8BEEBA19-4F00-62B1-1A29-0AB5A0A86FA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=2cb175c645550a3adac120b7381ed3f4%7C%7Cac0deeff-2519-4837-aea2-700f8bed86f0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.05.08-06.33.33:071][743]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.05.08-06.33.33:073][743]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.05.08-06.33.33:073][743]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.05.08-06.33.33:073][743]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.05.08-06.33.33:073][743]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.05.08-06.33.33:073][743]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.05.08-06.33.33:074][743]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.05.08-06.33.33:074][743]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.05.08-06.33.33:074][743]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.05.08-06.33.33:074][743]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.05.08-06.33.33:074][743]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.05.08-06.33.33:076][743]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.05.08-06.33.33:076][743]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.05.08-06.33.33:076][743]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.05.08-06.33.33:076][743]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.05.08-06.33.33:076][743]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.05.08-06.33.33:076][743]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.05.08-06.33.33:076][743]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.05.08-06.33.33:078][743]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.05.08-06.33.33:078][743]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.05.08-06.33.33:078][743]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.05.08-06.33.33:078][743]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.05.08-06.33.33:078][743]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.05.08-06.33.33:078][743]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.05.08-06.33.33:078][743]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.05.08-06.33.33:078][743]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.05.08-06.33.33:078][743]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.05.08-06.33.33:078][743]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.05.08-06.33.33:079][743]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.05.08-06.33.33:109][743]LogExit: Exiting.
+[2019.05.08-06.33.33:153][743]Log file closed, 05/08/19 16:33:33
