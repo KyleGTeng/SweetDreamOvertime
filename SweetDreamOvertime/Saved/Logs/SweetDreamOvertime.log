@@ -838,3 +838,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.20-09.09.23:035][611]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (MainMap)
 [2019.05.20-09.09.27:336][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.05.20-09.19.09:589][606]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.041
+[2019.05.20-10.20.32:506][827]LogSavePackage: Moving '../../../../../../ProgramData/SIT254/SweetDreamOvertime/SweetDreamOvertime/Saved/TopDownExampleMap020658584FB971C2BE6DB19ACDBD819C.tmp' to '../../../../../../ProgramData/SIT254/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.05.20-10.20.32:690][827]LogSavePackage: Moving '../../../../../../ProgramData/SIT254/SweetDreamOvertime/SweetDreamOvertime/Saved/TopDownExampleMap_BuiltDataBFB56B93403973E32FE226A16B017083.tmp' to '../../../../../../ProgramData/SIT254/SweetDreamOvertime/SweetDreamOvertime/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
